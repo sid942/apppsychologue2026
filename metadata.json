@@ -1,0 +1,5 @@
+{
+  "name": "MindTrack AI",
+  "description": "Clinical intelligence for therapists. A premium SaaS copilot for psychologists.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
